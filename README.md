@@ -68,7 +68,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.tenor.com/7ddM67UZbgYAAAAM/kaoruko-waguri-waguri-kaoruko.gif"  />
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/e2/3f/72/e23f720029108e1b630a10c8f6435fbc.gif"  />
+</div>
 
 ###
 
