@@ -2,7 +2,7 @@
 
 ###
 
-**`Em Busca do Full`**
+**`Em Busca do FullStack`**
 
 ###
 
