@@ -36,8 +36,6 @@
 
 <h3 align="left">🛜 Redes Sociais</h3>
 
-###
-
 <br clear="both">
 
 <div align="left">
