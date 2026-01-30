@@ -2,7 +2,7 @@
 
 ###
 
-**`Em Busca do FullStack`**
+**`Em Busca do Full`**
 
 ###
 
@@ -34,18 +34,6 @@
 
 ###
 
-<h3 align="left">📊 Estatísticas</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Ice77&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h3 align="left">🛜 Redes Sociais</h3>
 
 ###
@@ -66,10 +54,14 @@
 
 ###
 
+<h3 align="left">📊 Estatísticas</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e2/3f/72/e23f720029108e1b630a10c8f6435fbc.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Ice77&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
